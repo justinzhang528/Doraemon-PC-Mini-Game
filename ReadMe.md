@@ -1,5 +1,4 @@
 # Doraemon Adventure PC
-## 107年度下學期 物件導向程式設計實習專題
 ## Developed by Visual studio c++
 ### Game cover:
 ![image](https://github.com/justinzhang528/Doraemon-PC-Mini-Game/assets/47877537/4542b8fc-b81f-437e-840a-080bb85cb1cf)
